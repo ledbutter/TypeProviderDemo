@@ -38,7 +38,7 @@ module NodeInstance =
     let create node name guid config =
         { Node = node; InstanceId = Id(Name = name, UniqueId = guid); Config = config}
 
-let private nodes = JsonConvert.DeserializeObject<seq<Node>>(IO.File.ReadAllText(@"c:\Temp\Graph.json"))
+let private nodes = JsonConvert.DeserializeObject<seq<Node>>(IO.File.ReadAllText(@"Graph.json"))
                     |> Seq.map (fun n -> n.Id.UniqueId.ToString(), n)
                     |> Map.ofSeq
 
