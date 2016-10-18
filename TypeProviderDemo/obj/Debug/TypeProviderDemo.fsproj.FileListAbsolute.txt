@@ -1,0 +1,7 @@
+c:\users\ledbutter\documents\visual studio 2015\Projects\TypeProviderDemo\TypeProviderDemo\bin\Debug\TypeProviderDemo.XML
+c:\users\ledbutter\documents\visual studio 2015\Projects\TypeProviderDemo\TypeProviderDemo\bin\Debug\TypeProviderDemo.dll
+c:\users\ledbutter\documents\visual studio 2015\Projects\TypeProviderDemo\TypeProviderDemo\bin\Debug\TypeProviderDemo.pdb
+c:\users\ledbutter\documents\visual studio 2015\Projects\TypeProviderDemo\TypeProviderDemo\bin\Debug\FSharp.Core.dll
+c:\users\ledbutter\documents\visual studio 2015\Projects\TypeProviderDemo\TypeProviderDemo\bin\Debug\FSharp.Core.xml
+c:\users\ledbutter\documents\visual studio 2015\Projects\TypeProviderDemo\TypeProviderDemo\obj\Debug\TypeProviderDemo.dll
+c:\users\ledbutter\documents\visual studio 2015\Projects\TypeProviderDemo\TypeProviderDemo\obj\Debug\TypeProviderDemo.pdb
